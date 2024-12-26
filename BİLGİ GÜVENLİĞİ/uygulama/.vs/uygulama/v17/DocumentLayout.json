@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\Desktop\\B\u0130LG\u0130 G\u00DCVENL\u0130\u011E\u0130\\uygulama\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BB2FDE30-4515-4F5D-8F8A-CD6DB171E769}|uygulama\\uygulama.csproj|c:\\users\\pc\\desktop\\b\u0130lg\u0130 g\u00FCvenl\u0130\u011F\u0130\\uygulama\\uygulama\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BB2FDE30-4515-4F5D-8F8A-CD6DB171E769}|uygulama\\uygulama.csproj|solutionrelative:uygulama\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB2FDE30-4515-4F5D-8F8A-CD6DB171E769}|uygulama\\uygulama.csproj|C:\\Users\\PC\\Desktop\\B\u0130LG\u0130 G\u00DCVENL\u0130\u011E\u0130\\uygulama\\uygulama\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB2FDE30-4515-4F5D-8F8A-CD6DB171E769}|uygulama\\uygulama.csproj|solutionrelative:uygulama\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\B\u0130LG\u0130 G\u00DCVENL\u0130\u011E\u0130\\uygulama\\uygulama\\Form1.cs",
+              "RelativeDocumentMoniker": "uygulama\\Form1.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\B\u0130LG\u0130 G\u00DCVENL\u0130\u011E\u0130\\uygulama\\uygulama\\Form1.cs",
+              "RelativeToolTip": "uygulama\\Form1.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAgwG0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T15:38:39.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\B\u0130LG\u0130 G\u00DCVENL\u0130\u011E\u0130\\uygulama\\uygulama\\Form1.cs",
+              "RelativeDocumentMoniker": "uygulama\\Form1.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\B\u0130LG\u0130 G\u00DCVENL\u0130\u011E\u0130\\uygulama\\uygulama\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "uygulama\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T15:36:28.377Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
